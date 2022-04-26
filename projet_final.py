@@ -13,7 +13,7 @@ end_date = dt.date.today()
 
 st.title(f"Informations concernant l'action: {tickerSymbol} ")
 
-st.write(f'''Voici les données historiques du **cours de fermeture** ainsi que du ***volume*** de {tickerSymbol} selon la période choisie''')
+st.write(f'''Voici les données historiques du **cours de fermeture** ainsi que du ***volume*** de {tickerSymbol} selon la période choisie...''')
 
 # https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 
